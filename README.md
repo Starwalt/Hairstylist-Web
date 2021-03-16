@@ -19,4 +19,6 @@ Fresha - Instantly book salons and spas nearby
 
 
 
+![image](https://user-images.githubusercontent.com/11579239/111323065-8da86200-868f-11eb-94ea-f3a6975ebaff.png)
+
 
